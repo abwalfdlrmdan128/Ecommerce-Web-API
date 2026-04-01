@@ -1,0 +1,4 @@
+wwwroot\Images\cammera\Ipone.jpg
+wwwroot\Images\Galaxy\Ipone.jpg
+wwwroot\Images\Iphone\Ipone.jpg
+wwwroot\Images\Sumonge\deterjan.jpg

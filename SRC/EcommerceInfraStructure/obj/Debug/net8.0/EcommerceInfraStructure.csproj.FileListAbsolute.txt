@@ -1,0 +1,17 @@
+E:\API\SRC\EcommerceInfraStructure\bin\Debug\net8.0\EcommerceInfraStructure.deps.json
+E:\API\SRC\EcommerceInfraStructure\bin\Debug\net8.0\EcommerceInfraStructure.runtimeconfig.json
+E:\API\SRC\EcommerceInfraStructure\bin\Debug\net8.0\EcommerceInfraStructure.dll
+E:\API\SRC\EcommerceInfraStructure\bin\Debug\net8.0\EcommerceInfraStructure.pdb
+E:\API\SRC\EcommerceInfraStructure\bin\Debug\net8.0\Ecommerce.Core.dll
+E:\API\SRC\EcommerceInfraStructure\bin\Debug\net8.0\Ecommerce.Core.pdb
+E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.csproj.AssemblyReference.cache
+E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.AssemblyInfoInputs.cache
+E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.AssemblyInfo.cs
+E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.csproj.CoreCompileInputs.cache
+E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\Ecommerc.A3BB9839.Up2Date
+E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.dll
+E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\refint\EcommerceInfraStructure.dll
+E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.pdb
+E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.genruntimeconfig.cache
+E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\ref\EcommerceInfraStructure.dll
