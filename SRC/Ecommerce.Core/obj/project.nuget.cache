@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qIGWq+J3whM=",
+  "dgSpecHash": "meDf5oKtyn4=",
   "success": true,
-  "projectFilePath": "E:\\API\\SRC\\Ecommerce.Core\\Ecommerce.Core.csproj",
+  "projectFilePath": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Ecommerce.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UG\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.0\\microsoft.aspnetcore.cryptography.internal.8.0.0.nupkg.sha512",
     "C:\\Users\\UG\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.0\\microsoft.aspnetcore.cryptography.keyderivation.8.0.0.nupkg.sha512",

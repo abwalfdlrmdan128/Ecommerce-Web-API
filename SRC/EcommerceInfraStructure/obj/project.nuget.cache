@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WXd7HLcOD/k=",
+  "dgSpecHash": "zPKt0S5h7SQ=",
   "success": true,
-  "projectFilePath": "E:\\API\\SRC\\EcommerceInfraStructure\\EcommerceInfraStructure.csproj",
+  "projectFilePath": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\EcommerceInfraStructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UG\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\UG\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -122,9 +122,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'AutoMapper' 12.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
-      "projectPath": "E:\\API\\SRC\\EcommerceInfraStructure\\EcommerceInfraStructure.csproj",
+      "projectPath": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\EcommerceInfraStructure.csproj",
       "warningLevel": 1,
-      "filePath": "E:\\API\\SRC\\EcommerceInfraStructure\\EcommerceInfraStructure.csproj",
+      "filePath": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\EcommerceInfraStructure.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"

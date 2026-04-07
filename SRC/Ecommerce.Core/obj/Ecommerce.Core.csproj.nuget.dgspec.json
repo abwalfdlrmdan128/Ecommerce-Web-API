@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\API\\SRC\\Ecommerce.Core\\Ecommerce.Core.csproj": {}
+    "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Ecommerce.Core.csproj": {}
   },
   "projects": {
-    "E:\\API\\SRC\\Ecommerce.Core\\Ecommerce.Core.csproj": {
+    "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Ecommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\API\\SRC\\Ecommerce.Core\\Ecommerce.Core.csproj",
+        "projectUniqueName": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Ecommerce.Core.csproj",
         "projectName": "Ecommerce.Core",
-        "projectPath": "E:\\API\\SRC\\Ecommerce.Core\\Ecommerce.Core.csproj",
+        "projectPath": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Ecommerce.Core.csproj",
         "packagesPath": "C:\\Users\\UG\\.nuget\\packages\\",
-        "outputPath": "E:\\API\\SRC\\Ecommerce.Core\\obj\\",
+        "outputPath": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

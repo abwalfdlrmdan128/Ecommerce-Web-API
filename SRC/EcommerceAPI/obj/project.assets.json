@@ -5875,11 +5875,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\API\\SRC\\EcommerceAPI\\EcommerceAPI.csproj",
+      "projectUniqueName": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\EcommerceAPI.csproj",
       "projectName": "EcommerceAPI",
-      "projectPath": "E:\\API\\SRC\\EcommerceAPI\\EcommerceAPI.csproj",
+      "projectPath": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\EcommerceAPI.csproj",
       "packagesPath": "C:\\Users\\UG\\.nuget\\packages\\",
-      "outputPath": "E:\\API\\SRC\\EcommerceAPI\\obj\\",
+      "outputPath": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5900,11 +5900,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\API\\SRC\\Ecommerce.Core\\Ecommerce.Core.csproj": {
-              "projectPath": "E:\\API\\SRC\\Ecommerce.Core\\Ecommerce.Core.csproj"
+            "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Ecommerce.Core.csproj": {
+              "projectPath": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Ecommerce.Core.csproj"
             },
-            "E:\\API\\SRC\\EcommerceInfraStructure\\EcommerceInfraStructure.csproj": {
-              "projectPath": "E:\\API\\SRC\\EcommerceInfraStructure\\EcommerceInfraStructure.csproj"
+            "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\EcommerceInfraStructure.csproj": {
+              "projectPath": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\EcommerceInfraStructure.csproj"
             }
           }
         }
