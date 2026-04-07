@@ -17,9 +17,12 @@ namespace EcommerceInfraStructure.Repositries.Service
             {
                 this.configuration = configuration;
             }
+
+
             public async Task SendEmail(EmailDTO emailDTO)
             {
                 MimeMessage message = new();
+            // the email address is set in the appsettings.json file and the name is Fadell Ecommerce the sender of the email
                 message.From.Add(new MailboxAddress("Fadell Ecommerce", configuration["EmailSetting:From"]));
                 message.Subject = emailDTO.Subject;
                 message.To.Add(new MailboxAddress(emailDTO.To, emailDTO.To));
@@ -27,21 +30,18 @@ namespace EcommerceInfraStructure.Repositries.Service
                 {
                     Text = emailDTO.Content
                 };
+
+
                 using (var smtp = new MailKit.Net.Smtp.SmtpClient())
                 {
                     try
                     {
-                        await smtp.ConnectAsync(
-                            configuration["EmailSetting:Smtp"],
-                           int.Parse(configuration["EmailSetting:Port"]), true);
-                        await smtp.AuthenticateAsync(configuration["EmailSetting:Username"],
-                            configuration["EmailSetting:Password"]);
-
+                        await smtp.ConnectAsync(configuration["EmailSetting:Smtp"],int.Parse(configuration["EmailSetting:Port"]), true);
+                        await smtp.AuthenticateAsync(configuration["EmailSetting:Username"], configuration["EmailSetting:Password"]);
                         await smtp.SendAsync(message);
                     }
                     catch (Exception ex)
                     {
-
                         throw;
                     }
                     finally

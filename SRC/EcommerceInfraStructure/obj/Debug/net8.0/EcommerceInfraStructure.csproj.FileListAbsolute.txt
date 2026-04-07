@@ -15,3 +15,12 @@ E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\refint\EcommerceInfraStructu
 E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.pdb
 E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.genruntimeconfig.cache
 E:\API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\ref\EcommerceInfraStructure.dll
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.csproj.AssemblyReference.cache
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.AssemblyInfoInputs.cache
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.AssemblyInfo.cs
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.csproj.CoreCompileInputs.cache
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.sourcelink.json
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.dll
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\refint\EcommerceInfraStructure.dll
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.pdb

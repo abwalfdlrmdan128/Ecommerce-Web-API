@@ -162,3 +162,15 @@ E:\API\SRC\EcommerceAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
 E:\API\SRC\EcommerceAPI\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 E:\API\SRC\EcommerceAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 E:\API\SRC\EcommerceAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.csproj.AssemblyReference.cache
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.AssemblyInfoInputs.cache
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.AssemblyInfo.cs
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.csproj.CoreCompileInputs.cache
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.sourcelink.json
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.dll
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\refint\EcommerceAPI.dll
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.pdb

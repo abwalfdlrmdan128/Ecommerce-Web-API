@@ -7,6 +7,7 @@ using EcommerceInfraStructure.Data;
 using EcommerceInfraStructure.Repositries.Service;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,15 +23,17 @@ namespace EcommerceInfraStructure.Repositries
         private readonly SignInManager<AppUser> signInManager;
         private readonly IGenerateToken generateToken;
         private readonly AppDbContext context;
-        public AuthRepository(UserManager<AppUser> userManager, IEmailService emailService, SignInManager<AppUser> signInManager, IGenerateToken generateToken, AppDbContext context)
+        private readonly IConfiguration configuration;
+        public AuthRepository(UserManager<AppUser> userManager, IEmailService emailService, SignInManager<AppUser> signInManager, IGenerateToken generateToken, AppDbContext context, IConfiguration configuration)
         {
             this.userManager = userManager;
             this.emailService = emailService;
             this.signInManager = signInManager;
             this.generateToken = generateToken;
             this.context = context;
+            this.configuration = configuration;
         }
-       
+
         public async Task<string> RegisterAsync(RegisterDTO registerDTO)
         {
             if (registerDTO == null)
@@ -66,10 +69,8 @@ namespace EcommerceInfraStructure.Repositries
 
         public async Task SendEmail(string email, string code, string component, string subject, string message)
         {
-            var result = new EmailDTO(email,
-                "abwalfdlrmdan128@gmail.com",
-                subject
-                , EmailStringBody.send(email, code, component, message));
+            var result = new EmailDTO(email,configuration["EmailSetting:From"],subject,EmailStringBody.send(email, code, component, message));
+
             await emailService.SendEmail(result);
         }
 
