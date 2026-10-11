@@ -88,6 +88,7 @@ namespace EcommerceAPI.ExceptionsMiddleware
                 context.Response.Headers["X-Frame-Options"] = "DENY";
 
             }
+
         }
     }
 

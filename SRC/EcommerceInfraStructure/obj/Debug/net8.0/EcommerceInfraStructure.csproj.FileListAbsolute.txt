@@ -24,3 +24,12 @@ C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\D
 C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.dll
 C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\refint\EcommerceInfraStructure.dll
 C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.pdb
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\bin\Debug\net8.0\EcommerceInfraStructure.deps.json
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\bin\Debug\net8.0\EcommerceInfraStructure.runtimeconfig.json
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\bin\Debug\net8.0\EcommerceInfraStructure.dll
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\bin\Debug\net8.0\EcommerceInfraStructure.pdb
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\bin\Debug\net8.0\Ecommerce.Core.dll
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\bin\Debug\net8.0\Ecommerce.Core.pdb
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\Ecommerc.A3BB9839.Up2Date
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\EcommerceInfraStructure.genruntimeconfig.cache
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceInfraStructure\obj\Debug\net8.0\ref\EcommerceInfraStructure.dll

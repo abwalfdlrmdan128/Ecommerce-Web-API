@@ -5,6 +5,7 @@ using Ecommerce.Core.Services;
 using EcommerceInfraStructure.Data;
 using EcommerceInfraStructure.Repositries.Service;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.Configuration;
 using StackExchange.Redis;
 using System;
 using System.Collections.Generic;
@@ -24,7 +25,7 @@ namespace EcommerceInfraStructure.Repositries
         private readonly IEmailService _emailService;
         private readonly SignInManager<AppUser> _signInManager;
         private readonly IGenerateToken token;
-
+        private readonly IConfiguration _configuration;
         public IPhotoRepository photoRepository {  get;}
 
         public ICategoryRepository categoryRepository {  get;}
@@ -35,7 +36,7 @@ namespace EcommerceInfraStructure.Repositries
 
         public IAutho Autho { get; }
 
-        public UnitOFwork(AppDbContext context, IImageManagementService imageManagementService, IMapper mapper, IConnectionMultiplexer redis, UserManager<AppUser> userManager, IEmailService emailService, SignInManager<AppUser> signInManager, IGenerateToken token)
+        public UnitOFwork(AppDbContext context, IImageManagementService imageManagementService, IMapper mapper, IConnectionMultiplexer redis, UserManager<AppUser> userManager, IEmailService emailService, SignInManager<AppUser> signInManager, IGenerateToken token, IConfiguration configuration)
         {
             _context = context;
             _imageManagementService = imageManagementService;
@@ -44,12 +45,13 @@ namespace EcommerceInfraStructure.Repositries
             _userManager = userManager;
             _emailService = emailService;
             _signInManager = signInManager;
+            _configuration = configuration;
             this.token = token;
             photoRepository = new PhotoRepository(_context);
             categoryRepository = new CategoryRepository(_context);
             productRepository = new ProductRepository(_context, _mapper, _imageManagementService);
             customerBasketRepository = new CustomerBasketRepository(_redis);
-            Autho = new AuthRepository(userManager, emailService, signInManager, token, context);
+            Autho = new AuthRepository(userManager, emailService, signInManager, token, context, configuration);
           
         }
     }
