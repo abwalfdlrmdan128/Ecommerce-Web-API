@@ -1,6 +1,10 @@
-using EcommerceAPI.ExceptionsMiddleware;
-using EcommerceInfraStructure;
 using AutoMapper;
+using Ecommerce.Core.Services;
+using EcommerceAPI.ExceptionsMiddleware;
+using EcommerceAPI.Hubs;
+using EcommerceAPI.Services;
+using EcommerceInfraStructure;
+using EcommerceInfraStructure.Repositories.Service;
 namespace EcommerceAPI
 {
     public class Program
@@ -16,6 +20,9 @@ namespace EcommerceAPI
             builder.Services.AddSwaggerGen();
             builder.Services.infrastructureConfiguration(builder.Configuration);
             builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+            builder.Services.AddSignalR();
+            builder.Services.AddScoped<INotificationHubService,SignalRNotificationHubService>();
+            builder.Services.AddScoped<INotificationService,NotificationService>();
             // add CORS
             builder.Services.AddCors(op =>
             {
@@ -24,6 +31,7 @@ namespace EcommerceAPI
                     builder.AllowAnyHeader().AllowAnyMethod().AllowCredentials().WithOrigins("https://localhost:4200", "http://localhost:4200");
                 });
             });
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -47,6 +55,7 @@ namespace EcommerceAPI
             app.UseHttpsRedirection();
           
             app.MapControllers();
+            app.MapHub<NotificationHub>("/notificationHub");
             app.Run();
         }
     }

@@ -49,7 +49,20 @@ namespace EcommerceAPI.Controllers
 
 
         [HttpGet("get-delivery")]
-        public async Task<ActionResult> GetDeliver()
-        => Ok(await _orderService.GetDeliveryMethodAsync());
+        public async Task<ActionResult> GetDeliver() => Ok(await _orderService.GetDeliveryMethodAsync());
+
+
+
+        [Authorize(Roles = "Admin")]
+        [HttpPatch("{orderId:int}/status")]
+        public async Task<IActionResult> UpdateOrderStatus(int orderId,[FromBody] UpdateOrderStatusDTO request)
+        {
+            var updated = await _orderService.UpdateOrderStatusAsync(orderId, request.Status);
+
+            if (!updated) return NotFound(new { message = "Order not found." });
+
+            return NoContent();
+        }
+
     }
 }

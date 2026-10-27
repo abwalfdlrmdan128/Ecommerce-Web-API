@@ -14,5 +14,6 @@ namespace Ecommerce.Core.Services
         Task<IReadOnlyList<OrderToReturnDTO>> GetAllOrdersForUserAsync(string BuyerEmail);
         Task<OrderToReturnDTO> GetOrderByIdAsync(int Id, string BuyerEmail);
         Task<IReadOnlyList<DeliveryMethod>> GetDeliveryMethodAsync();
+        Task<bool> UpdateOrderStatusAsync(int orderId, Status newStatus);
     }
 }

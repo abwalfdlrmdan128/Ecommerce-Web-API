@@ -19,13 +19,15 @@ namespace EcommerceInfraStructure.Repositries.Service
         private readonly AppDbContext _context;
         private readonly IMapper _mapper;
         private readonly IPaymentService _paymentService;
+        private readonly INotificationService _notificationService;
 
-        public OrderService(IUniOfwork unitOfWork, AppDbContext context, IMapper mapper, IPaymentService paymentService)
+        public OrderService(IUniOfwork unitOfWork, AppDbContext context, IMapper mapper, IPaymentService paymentService, INotificationService notificationService)
         {
             _unitOfWork = unitOfWork;
             _context = context;
             _mapper = mapper;
             _paymentService = paymentService;
+            _notificationService = notificationService;
         }
 
 
@@ -38,8 +40,7 @@ namespace EcommerceInfraStructure.Repositries.Service
             foreach (var item in basket.basketItems)
             {
                 var Product = await _unitOfWork.productRepository.GetByIdAsync(item.Id);
-                var orderItem = new OrderItem
-                    (Product.Id, item.Image, Product.Name, item.Price, item.Qunatity);
+                var orderItem = new OrderItem(Product.Id, item.Image, Product.Name, item.Price, item.Qunatity);
                 orderItems.Add(orderItem);
 
             }
@@ -50,8 +51,7 @@ namespace EcommerceInfraStructure.Repositries.Service
             var ship = _mapper.Map<ShippingAddress>(orderDTO.shipAddress);
 
             var ExisitOrder = await _context.Orders.Where(m => m.PaymentIntentId == basket.PaymentIntentId).FirstOrDefaultAsync(); 
-            var order = new
-                Orders(BuyerEmail, subTotal, ship, deliverMethod, orderItems, basket.PaymentIntentId);
+            var order = new Orders(BuyerEmail, subTotal, ship, deliverMethod, orderItems, basket.PaymentIntentId);
 
             await _context.Orders.AddAsync(order);
             await _context.SaveChangesAsync();
@@ -80,5 +80,39 @@ namespace EcommerceInfraStructure.Repositries.Service
             var result = _mapper.Map<OrderToReturnDTO>(order);
             return result;
         }
+
+        public async Task<bool> UpdateOrderStatusAsync(int orderId, Status newStatus)
+        {
+            var order = await _context.Orders.FirstOrDefaultAsync(o => o.Id == orderId);
+
+            if (order is null) return false;
+
+            if (order.status == newStatus) return true;
+
+            order.status = newStatus;
+
+            await _context.SaveChangesAsync();
+
+            await _notificationService.SendToUserAsync( await GetUserIdByEmailAsync(order.BuyerEmail),
+                new NotificationDTO
+                {
+                    Title = "Order Status Updated",
+                    Message = $"Your order #{order.Id} status is now {newStatus}.",
+                    Type = "Order",
+                    RelatedEntityId = order.Id.ToString()
+                });
+
+            return true;
+        }
+
+        private async Task<string> GetUserIdByEmailAsync(string email)
+        {
+            var userId = await _context.Users.Where(u => u.Email == email).Select(u => u.Id).FirstOrDefaultAsync();
+
+            if (userId is null) throw new InvalidOperationException($"No user found with email {email}.");
+
+            return userId;
+        }
+
     }
 }

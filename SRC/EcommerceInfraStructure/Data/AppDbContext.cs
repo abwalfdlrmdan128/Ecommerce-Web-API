@@ -33,6 +33,8 @@ namespace EcommerceInfraStructure.Data
 
         public virtual DbSet<DeliveryMethod> DeliveryMethods { get; set; }
 
+        public virtual DbSet<Notification> Notifications { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

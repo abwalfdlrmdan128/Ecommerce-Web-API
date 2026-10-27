@@ -199,5 +199,10 @@ namespace EcommerceInfraStructure.Repositries
 
             return result.Succeeded;
         }
+
+        Task<string> IAutho.GoogleLoginAsync(GoogleLoginDTO googleLoginDTO)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
