@@ -5,12 +5,16 @@ using Ecommerce.Core.Services;
 using Ecommerce.Core.Sharing;
 using EcommerceInfraStructure.Data;
 using EcommerceInfraStructure.Repositries.Service;
+using Google.Apis.Auth;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
+using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
+using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -200,9 +204,70 @@ namespace EcommerceInfraStructure.Repositries
             return result.Succeeded;
         }
 
-        Task<string> IAutho.GoogleLoginAsync(GoogleLoginDTO googleLoginDTO)
+        public async Task<string> GoogleLoginAsync(GoogleLoginDTO request)
         {
-            throw new NotImplementedException();
+            var settings = new GoogleJsonWebSignature.ValidationSettings
+            {
+                Audience = new[] { configuration["Authentication:Google:ClientId"] }
+            };
+
+            var payload = await GoogleJsonWebSignature.ValidateAsync(
+                request.IdToken,
+                settings
+            );
+
+            if (payload.EmailVerified != true || string.IsNullOrWhiteSpace(payload.Email))
+            {
+                return (" please, try again Google email is not verified.");
+            }
+
+            var user = await userManager.FindByEmailAsync(payload.Email);
+
+            if (user == null)
+            {
+                user = new AppUser
+                {
+                    UserName = payload.Email,
+                    Email = payload.Email,
+                    EmailConfirmed = true
+                };
+
+                var result = await userManager.CreateAsync(user);
+
+                if (!result.Succeeded) return "please try again";
+            }
+
+            var claims = new List<Claim> {
+            new Claim(ClaimTypes.NameIdentifier, user.Id),
+            new Claim(ClaimTypes.Name, user.UserName ?? user.Email!),
+            new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()) };
+
+            var roles = await userManager.GetRolesAsync(user);
+
+            foreach (var role in roles)
+            {
+                claims.Add(new Claim(ClaimTypes.Role, role));
+            }
+
+            var key = new SymmetricSecurityKey(
+                Encoding.UTF8.GetBytes(configuration["Token:Secret"]!)
+            );
+
+            var credentials = new SigningCredentials(
+                key,
+                SecurityAlgorithms.HmacSha256
+            );
+
+            var jwt = new JwtSecurityToken(
+                issuer: configuration["Token:Issuer"],
+                audience: configuration["Token:Audience"],
+                expires: DateTime.UtcNow.AddMinutes(30),
+                claims: claims,
+                signingCredentials: credentials
+            );
+            return new JwtSecurityTokenHandler().WriteToken(jwt);   
+            } 
+
         }
-    }
 }
+

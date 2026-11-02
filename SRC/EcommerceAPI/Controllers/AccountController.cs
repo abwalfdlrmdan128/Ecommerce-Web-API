@@ -3,9 +3,11 @@ using Ecommerce.Core.DTOS;
 using Ecommerce.Core.Intefaces;
 using Ecommerce.Core.Models;
 using EcommerceAPI.Helpers;
+using Google.Apis.Auth;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using static StackExchange.Redis.Role;
 
@@ -165,6 +167,32 @@ namespace EcommerceAPI.Controllers
             }
             return BadRequest(new ResponseAPI(400));
         }
+
+
+
+        [HttpPost("Login-with-Google")]
+        public async Task<IActionResult> loginWithGoogle(GoogleLoginDTO googleLoginDTO)
+        {
+            if (!ModelState.IsValid) return BadRequest(ModelState);
+
+            string result = await _uniOfwork.Autho.GoogleLoginAsync(googleLoginDTO);
+            if (result.StartsWith("please"))
+            {
+                return BadRequest(new ResponseAPI(400, result));
+            }
+
+            Response.Cookies.Append("token", result, new CookieOptions
+            {
+                HttpOnly = true,
+                Secure = true,
+                SameSite = SameSiteMode.None,
+                IsEssential = true,
+                Domain = "localhost",
+                Expires = DateTime.Now.AddDays(1)
+            });
+            return Ok(new ResponseAPI(200));
+        }
+
     }
 }
 

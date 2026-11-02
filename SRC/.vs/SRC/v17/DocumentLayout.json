@@ -3,88 +3,240 @@
   "WorkspaceRootPath": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\services\\inotificationhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\inotificationhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\services\\signalrnotificationhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\services\\signalrnotificationhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\dtos\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\dtos\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\order\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\order\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\order\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\order\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\order\\deliverymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\order\\deliverymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\order\\shippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\order\\shippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\order\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\order\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\mapping\\ordermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\mapping\\ordermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\dtos\\createnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\dtos\\createnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\infrastrucutreregisteratoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\infrastrucutreregisteratoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\data\\config\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\data\\config\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\intefaces\\iautho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\intefaces\\iautho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\service\\generatetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\service\\generatetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\customerbasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\customerbasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\product\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\product\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\order\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\order\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\order\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\order\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\order\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\order\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\services\\signalrnotificationhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\services\\signalrnotificationhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\mapping\\ordermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\mapping\\ordermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\mapping\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\mapping\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\helpers\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\helpers\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\helpers\\paginatoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\helpers\\paginatoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\helpers\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\helpers\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\ratingrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\ratingrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\services\\inotificationhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\inotificationhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\services\\iimagemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\iimagemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\services\\igeneratetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\igeneratetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\product\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\product\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\product\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\product\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\order\\shippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\order\\shippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\intefaces\\iuniofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\intefaces\\iuniofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\service\\imagemanagementserice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\service\\imagemanagementserice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\dtos\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\dtos\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\order\\deliverymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\order\\deliverymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\dtos\\createnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\dtos\\createnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\data\\config\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\data\\config\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\mapping\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,24 +267,8 @@
       "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\service\\emailservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\service\\emailservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Migrations\\20261026231608_AddNotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceInfraStructure\\Data\\Migrations\\20261026231608_AddNotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\dtos\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,32 +279,12 @@
       "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\dtos\\googlelogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\intefaces\\iautho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\intefaces\\iautho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\dtos\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -179,52 +295,12 @@
       "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\dtos\\ratingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\product\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\product\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\product\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\product\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\product\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\product\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\services\\igeneratetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\igeneratetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\customerbasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\customerbasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -235,36 +311,8 @@
       "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\photorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\helpers\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\helpers\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\helpers\\paginatoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\helpers\\paginatoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\helpers\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\helpers\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\sharing\\emailstringbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\sharing\\emailstringbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\service\\generatetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\service\\generatetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\mapping\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\mapping\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\mapping\\photomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -273,10 +321,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\mapping\\productmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\mapping\\productmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\intefaces\\iuniofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\intefaces\\iuniofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\ecommerceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -291,30 +335,6 @@
       "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\genericrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\ratingrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\ratingrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\intefaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\intefaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -323,12 +343,8 @@
       "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\dtos\\ordertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\data\\migrations\\20261026231608_addnotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\data\\migrations\\20261026231608_addnotifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -338,7 +354,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 168,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -346,7 +362,202 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:50:28.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\appsettings.json",
+              "RelativeToolTip": "EcommerceAPI\\appsettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T11:14:14.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\AuthRepository.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\AuthRepository.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAM4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:20:12.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenerateToken.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\GenerateToken.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\Service\\GenerateToken.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\GenerateToken.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\Service\\GenerateToken.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:59:47.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Program.cs",
+              "RelativeToolTip": "EcommerceAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:17:25.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfraStrucutreRegisteratoin.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\InfraStrucutreRegisteratoin.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\InfraStrucutreRegisteratoin.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\InfraStrucutreRegisteratoin.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\InfraStrucutreRegisteratoin.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:52:20.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerBasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\CustomerBasketRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\CustomerBasketRepository.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\CustomerBasketRepository.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\CustomerBasketRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:47:49.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAutho.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Intefaces\\IAutho.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Intefaces\\IAutho.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Intefaces\\IAutho.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Intefaces\\IAutho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T23:04:11.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\Service\\OrderService.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\OrderService.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\Service\\OrderService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAABBwCEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:33:35.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\BasketItem.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\BasketItem.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\BasketItem.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Models\\BasketItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T22:23:16.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\UserDTO.cs",
+              "RelativeToolTip": "Ecommerce.Core\\DTOS\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T23:50:35.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasketsController.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\BasketsController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\BasketsController.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\BasketsController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\BasketsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABRwBsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T20:47:46.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerBasket.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\CustomerBasket.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\CustomerBasket.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\CustomerBasket.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Models\\CustomerBasket.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T22:23:22.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\ProductRepository.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\ProductRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAABRwD0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:48:13.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Product\\Rating.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Product\\Rating.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Product\\Rating.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Models\\Product\\Rating.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T23:40:21.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\Status.cs",
               "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Order\\Status.cs",
@@ -354,50 +565,350 @@
               "RelativeToolTip": "Ecommerce.Core\\Models\\Order\\Status.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T00:20:09.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Program.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Program.cs",
-              "RelativeToolTip": "EcommerceAPI\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:17:25.744Z",
+              "WhenOpened": "2026-10-27T00:20:09.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SignalRNotificationHubService.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Services\\SignalRNotificationHubService.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Services\\SignalRNotificationHubService.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Services\\SignalRNotificationHubService.cs",
-              "RelativeToolTip": "EcommerceAPI\\Services\\SignalRNotificationHubService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADgvxUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\Orders.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Order\\Orders.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\Orders.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Models\\Order\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T23:27:14.761Z",
+              "WhenOpened": "2026-11-01T04:45:54.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T07:43:07.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\PaymentService.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\Service\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\PaymentService.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\Service\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:41:53.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Order\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\OrderItem.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Models\\Order\\OrderItem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T00:24:03.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "NotificationService.cs",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\NotificationService.cs",
               "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\Service\\NotificationService.cs",
               "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\NotificationService.cs",
               "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\Service\\NotificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwCwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-26T23:43:28.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 21,
+              "Title": "SignalRNotificationHubService.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Services\\SignalRNotificationHubService.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Services\\SignalRNotificationHubService.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Services\\SignalRNotificationHubService.cs",
+              "RelativeToolTip": "EcommerceAPI\\Services\\SignalRNotificationHubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:39:11.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAABBwDoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T00:10:27.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Hubs\\NotificationHub.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "EcommerceAPI\\Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T23:17:51.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "EcommerceAPI\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwFMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:15:40.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderMapping.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\OrderMapping.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Mapping\\OrderMapping.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\OrderMapping.cs",
+              "RelativeToolTip": "EcommerceAPI\\Mapping\\OrderMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:58:33.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryMapping.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\CategoryMapping.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Mapping\\CategoryMapping.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\CategoryMapping.cs",
+              "RelativeToolTip": "EcommerceAPI\\Mapping\\CategoryMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:58:37.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ResponseAPI.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Helpers\\ResponseAPI.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Helpers\\ResponseAPI.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Helpers\\ResponseAPI.cs",
+              "RelativeToolTip": "EcommerceAPI\\Helpers\\ResponseAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:51:22.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Paginatoin.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Helpers\\Paginatoin.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Helpers\\Paginatoin.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Helpers\\Paginatoin.cs",
+              "RelativeToolTip": "EcommerceAPI\\Helpers\\Paginatoin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:15:57.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "APIException.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Helpers\\APIException.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Helpers\\APIException.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Helpers\\APIException.cs",
+              "RelativeToolTip": "EcommerceAPI\\Helpers\\APIException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:15:55.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RatingRepositry.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\RatingRepositry.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\RatingRepositry.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\RatingRepositry.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\RatingRepositry.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:48:17.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RatingsController.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\RatingsController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\RatingsController.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\RatingsController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\RatingsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwCMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:00:55.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAABBwFMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:00:56.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAABBwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:00:29.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwv0MAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T14:03:57.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:18:11.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:00:16.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BugController.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\BugController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\BugController.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\BugController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\BugController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:17:25.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Services\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:19:33.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T00:19:44.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwDQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T14:12:24.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Services\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\INotificationService.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Services\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T22:46:55.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "INotificationHubService.cs",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\INotificationHubService.cs",
               "RelativeDocumentMoniker": "Ecommerce.Core\\Services\\INotificationHubService.cs",
@@ -410,404 +921,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NotificationHub.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Hubs\\NotificationHub.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Hubs\\NotificationHub.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Hubs\\NotificationHub.cs",
-              "RelativeToolTip": "EcommerceAPI\\Hubs\\NotificationHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 43,
+              "Title": "IImageManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IImageManagementService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Services\\IImageManagementService.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IImageManagementService.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Services\\IImageManagementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T23:17:51.595Z",
+              "WhenOpened": "2026-10-28T04:21:57.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "EcommerceAPI\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAADwv0MAAAABAAAAAAAAAA==",
+              "DocumentIndex": 44,
+              "Title": "IGenerateToken.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IGenerateToken.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Services\\IGenerateToken.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IGenerateToken.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Services\\IGenerateToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T14:03:57.056Z"
+              "WhenOpened": "2026-05-09T22:53:07.195Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Services\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IOrderService.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Services\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T00:19:44.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Orders.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\Orders.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Order\\Orders.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\Orders.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Models\\Order\\Orders.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxgAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T00:20:04.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ShippingAddress.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\ShippingAddress.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Order\\ShippingAddress.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\ShippingAddress.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Models\\Order\\ShippingAddress.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T00:20:13.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DeliveryMethod.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\DeliveryMethod.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Order\\DeliveryMethod.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\DeliveryMethod.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Models\\Order\\DeliveryMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T00:20:40.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Order\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\OrderItem.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Models\\Order\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T00:24:03.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateOrderStatusDTO.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\UpdateOrderStatusDTO.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\UpdateOrderStatusDTO.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\UpdateOrderStatusDTO.cs",
-              "RelativeToolTip": "Ecommerce.Core\\DTOS\\UpdateOrderStatusDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T00:36:41.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\OrderService.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\Service\\OrderService.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\OrderService.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\Service\\OrderService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:33:35.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\AuthRepository.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\AuthRepository.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\AuthRepository.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\AuthRepository.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAAANAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:20:12.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "NotificationsController.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\NotificationsController.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\NotificationsController.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\NotificationsController.cs",
-              "RelativeToolTip": "EcommerceAPI\\Controllers\\NotificationsController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADoAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T00:10:27.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "OrderMapping.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\OrderMapping.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Mapping\\OrderMapping.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\OrderMapping.cs",
-              "RelativeToolTip": "EcommerceAPI\\Mapping\\OrderMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T22:58:33.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "InfraStrucutreRegisteratoin.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\InfraStrucutreRegisteratoin.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\InfraStrucutreRegisteratoin.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\InfraStrucutreRegisteratoin.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\InfraStrucutreRegisteratoin.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T10:52:20.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CreateNotificationDTO.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\CreateNotificationDTO.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\CreateNotificationDTO.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\CreateNotificationDTO.cs",
-              "RelativeToolTip": "Ecommerce.Core\\DTOS\\CreateNotificationDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T00:15:14.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Config\\ProductConfiguration.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\ProductConfiguration.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Config\\ProductConfiguration.cs",
-              "ViewState": "AgIAAAAAAACAZmZmZmYkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T20:28:52.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T07:43:31.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserMapping.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\UserMapping.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Mapping\\UserMapping.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\UserMapping.cs",
-              "RelativeToolTip": "EcommerceAPI\\Mapping\\UserMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T22:58:26.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Config\\CategoryConfiguration.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\CategoryConfiguration.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Config\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T13:49:01.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DeliveryMethodConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\DeliveryMethodConfiguration.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Config\\DeliveryMethodConfiguration.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\DeliveryMethodConfiguration.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Config\\DeliveryMethodConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T20:10:37.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "OrderConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\OrderConfiguration.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Config\\OrderConfiguration.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\OrderConfiguration.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Config\\OrderConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T20:28:31.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "OrderItemConfiguratrion.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\OrderItemConfiguratrion.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Config\\OrderItemConfiguratrion.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\OrderItemConfiguratrion.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Config\\OrderItemConfiguratrion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T20:10:44.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "PhotoConfiguratoin.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\PhotoConfiguratoin.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Config\\PhotoConfiguratoin.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\PhotoConfiguratoin.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Config\\PhotoConfiguratoin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T23:33:28.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T23:33:01.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "EcommerceAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\appsettings.json",
-              "RelativeToolTip": "EcommerceAPI\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-19T11:14:14.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\AppUser.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T07:43:07.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "EmailService .cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\EmailService .cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\Service\\EmailService .cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\EmailService .cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\Service\\EmailService .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:27:37.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "INotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\INotificationService.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Services\\INotificationService.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\INotificationService.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Services\\INotificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T22:46:55.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "20261026231608_AddNotifications.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Migrations\\20261026231608_AddNotifications.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Migrations\\20261026231608_AddNotifications.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Migrations\\20261026231608_AddNotifications.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Migrations\\20261026231608_AddNotifications.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T23:16:08.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "GoogleLoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\GoogleLoginDTO.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\GoogleLoginDTO.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\GoogleLoginDTO.cs",
-              "RelativeToolTip": "Ecommerce.Core\\DTOS\\GoogleLoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T00:30:10.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "EmailDTO.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\EmailDTO.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\EmailDTO.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\EmailDTO.cs",
-              "RelativeToolTip": "Ecommerce.Core\\DTOS\\EmailDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T13:45:59.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "IAutho.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Intefaces\\IAutho.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Intefaces\\IAutho.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Intefaces\\IAutho.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Intefaces\\IAutho.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T23:04:11.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Notification.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Notification.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Notification.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Notification.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Models\\Notification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T22:56:25.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "NotificationDTO.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\NotificationDTO.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\NotificationDTO.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\NotificationDTO.cs",
-              "RelativeToolTip": "Ecommerce.Core\\DTOS\\NotificationDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T22:57:10.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 45,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IEmailService.cs",
               "RelativeDocumentMoniker": "Ecommerce.Core\\Services\\IEmailService.cs",
@@ -815,119 +955,12 @@
               "RelativeToolTip": "Ecommerce.Core\\Services\\IEmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T21:44:48.213Z"
+              "WhenOpened": "2026-04-07T21:44:48.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 46,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Product\\Category.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Product\\Category.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Product\\Category.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Models\\Product\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T23:40:26.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "OrderDTO.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\OrderDTO.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\OrderDTO.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\OrderDTO.cs",
-              "RelativeToolTip": "Ecommerce.Core\\DTOS\\OrderDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T13:46:00.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "CategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\CategoryDTO.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\CategoryDTO.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\CategoryDTO.cs",
-              "RelativeToolTip": "Ecommerce.Core\\DTOS\\CategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T13:45:52.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "EcommerceAPI\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T10:50:28.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "RatingDTO.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\RatingDTO.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\RatingDTO.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\RatingDTO.cs",
-              "RelativeToolTip": "Ecommerce.Core\\DTOS\\RatingDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T19:18:10.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "PhotoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\PhotoDTO.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\PhotoDTO.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\PhotoDTO.cs",
-              "RelativeToolTip": "Ecommerce.Core\\DTOS\\PhotoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T19:18:14.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "IGenerateToken.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IGenerateToken.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Services\\IGenerateToken.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IGenerateToken.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Services\\IGenerateToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T22:53:07.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Photo.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Product\\Photo.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Product\\Photo.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Product\\Photo.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Models\\Product\\Photo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T23:40:13.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Rating.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Product\\Rating.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Product\\Rating.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Product\\Rating.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Models\\Product\\Rating.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T23:40:21.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Product\\Product.cs",
               "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Product\\Product.cs",
@@ -935,239 +968,64 @@
               "RelativeToolTip": "Ecommerce.Core\\Models\\Product\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T23:40:09.212Z"
+              "WhenOpened": "2026-10-10T23:40:09.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Product\\Photo.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Product\\Photo.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Product\\Photo.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Models\\Product\\Photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T23:40:13.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Product\\Category.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Product\\Category.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Product\\Category.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Models\\Product\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T23:40:26.945Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 49,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Address.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Address.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Address.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Models\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Notification.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Models\\Notification.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T22:52:23.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T22:23:13.415Z"
+              "WhenOpened": "2026-10-26T22:56:25.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 50,
-              "Title": "CustomerBasket.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\CustomerBasket.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\CustomerBasket.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\CustomerBasket.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Models\\CustomerBasket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ShippingAddress.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\ShippingAddress.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Order\\ShippingAddress.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\ShippingAddress.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Models\\Order\\ShippingAddress.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T22:23:22.491Z"
+              "WhenOpened": "2026-10-27T00:20:13.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "BasketItem.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\BasketItem.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\BasketItem.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\BasketItem.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Models\\BasketItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T22:23:16.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "BasketsController.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\BasketsController.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\BasketsController.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\BasketsController.cs",
-              "RelativeToolTip": "EcommerceAPI\\Controllers\\BasketsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T20:47:46.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "CustomerBasketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\CustomerBasketRepository.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\CustomerBasketRepository.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\CustomerBasketRepository.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\CustomerBasketRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T13:47:49.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\ProductRepository.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\ProductRepository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAD0AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T13:48:13.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "PhotoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\PhotoRepository.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\PhotoRepository.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\PhotoRepository.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\PhotoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T13:48:10.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\CategoryRepository.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T13:47:06.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "APIException.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Helpers\\APIException.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Helpers\\APIException.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Helpers\\APIException.cs",
-              "RelativeToolTip": "EcommerceAPI\\Helpers\\APIException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:15:55.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "Paginatoin.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Helpers\\Paginatoin.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Helpers\\Paginatoin.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Helpers\\Paginatoin.cs",
-              "RelativeToolTip": "EcommerceAPI\\Helpers\\Paginatoin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:15:57.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "ResponseAPI.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Helpers\\ResponseAPI.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Helpers\\ResponseAPI.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Helpers\\ResponseAPI.cs",
-              "RelativeToolTip": "EcommerceAPI\\Helpers\\ResponseAPI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:51:22.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "EmailStringBody.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Sharing\\EmailStringBody.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Sharing\\EmailStringBody.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Sharing\\EmailStringBody.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Sharing\\EmailStringBody.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T23:36:48.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\RegisterDTO.cs",
-              "RelativeToolTip": "Ecommerce.Core\\DTOS\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T23:38:49.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\UserDTO.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\UserDTO.cs",
-              "RelativeToolTip": "Ecommerce.Core\\DTOS\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T23:50:35.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "GenerateToken.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\GenerateToken.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\Service\\GenerateToken.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\GenerateToken.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\Service\\GenerateToken.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T22:59:47.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "CategoryMapping.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\CategoryMapping.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Mapping\\CategoryMapping.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\CategoryMapping.cs",
-              "RelativeToolTip": "EcommerceAPI\\Mapping\\CategoryMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T22:58:37.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "PhotoMapping.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\PhotoMapping.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Mapping\\PhotoMapping.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\PhotoMapping.cs",
-              "RelativeToolTip": "EcommerceAPI\\Mapping\\PhotoMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T22:58:31.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "ProductMapping.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\ProductMapping.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Mapping\\ProductMapping.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\ProductMapping.cs",
-              "RelativeToolTip": "EcommerceAPI\\Mapping\\ProductMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T22:58:28.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 51,
               "Title": "IUniOfwork.cs",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Intefaces\\IUniOfwork.cs",
               "RelativeDocumentMoniker": "Ecommerce.Core\\Intefaces\\IUniOfwork.cs",
@@ -1175,11 +1033,389 @@
               "RelativeToolTip": "Ecommerce.Core\\Intefaces\\IUniOfwork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T22:57:26.336Z"
+              "WhenOpened": "2026-05-09T22:57:26.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ImageManagementSerice.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\ImageManagementSerice.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\Service\\ImageManagementSerice.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\ImageManagementSerice.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\Service\\ImageManagementSerice.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T04:21:20.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\RegisterDTO.cs",
+              "RelativeToolTip": "Ecommerce.Core\\DTOS\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T23:38:49.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T07:43:31.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DeliveryMethod.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\DeliveryMethod.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Order\\DeliveryMethod.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Order\\DeliveryMethod.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Models\\Order\\DeliveryMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T00:20:40.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UpdateOrderStatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\UpdateOrderStatusDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\UpdateOrderStatusDTO.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\UpdateOrderStatusDTO.cs",
+              "RelativeToolTip": "Ecommerce.Core\\DTOS\\UpdateOrderStatusDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T00:36:41.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CreateNotificationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\CreateNotificationDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\CreateNotificationDTO.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\CreateNotificationDTO.cs",
+              "RelativeToolTip": "Ecommerce.Core\\DTOS\\CreateNotificationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T00:15:14.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Config\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\ProductConfiguration.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Config\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAACAZmZmZmYkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T20:28:52.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UserMapping.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\UserMapping.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Mapping\\UserMapping.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\UserMapping.cs",
+              "RelativeToolTip": "EcommerceAPI\\Mapping\\UserMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:58:26.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Config\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\CategoryConfiguration.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Config\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:49:01.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DeliveryMethodConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\DeliveryMethodConfiguration.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Config\\DeliveryMethodConfiguration.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\DeliveryMethodConfiguration.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Config\\DeliveryMethodConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T20:10:37.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Config\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\OrderConfiguration.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Config\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T20:28:31.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "OrderItemConfiguratrion.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\OrderItemConfiguratrion.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Config\\OrderItemConfiguratrion.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\OrderItemConfiguratrion.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Config\\OrderItemConfiguratrion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T20:10:44.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "PhotoConfiguratoin.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\PhotoConfiguratoin.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Config\\PhotoConfiguratoin.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Config\\PhotoConfiguratoin.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Config\\PhotoConfiguratoin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T23:33:28.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T23:33:01.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "EmailService .cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\EmailService .cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\Service\\EmailService .cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\Service\\EmailService .cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\Service\\EmailService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T11:27:37.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20261026231608_AddNotifications.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Migrations\\20261026231608_AddNotifications.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Data\\Migrations\\20261026231608_AddNotifications.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Data\\Migrations\\20261026231608_AddNotifications.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Data\\Migrations\\20261026231608_AddNotifications.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T23:16:08.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "GoogleLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\GoogleLoginDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\GoogleLoginDTO.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\GoogleLoginDTO.cs",
+              "RelativeToolTip": "Ecommerce.Core\\DTOS\\GoogleLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T00:30:10.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "EmailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\EmailDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\EmailDTO.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\EmailDTO.cs",
+              "RelativeToolTip": "Ecommerce.Core\\DTOS\\EmailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:45:59.381Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 69,
+              "Title": "NotificationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\NotificationDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\NotificationDTO.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\NotificationDTO.cs",
+              "RelativeToolTip": "Ecommerce.Core\\DTOS\\NotificationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T22:57:10.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\CategoryDTO.cs",
+              "RelativeToolTip": "Ecommerce.Core\\DTOS\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:45:52.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RatingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\RatingDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\RatingDTO.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\RatingDTO.cs",
+              "RelativeToolTip": "Ecommerce.Core\\DTOS\\RatingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T19:18:10.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "PhotoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\PhotoDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\PhotoDTO.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\PhotoDTO.cs",
+              "RelativeToolTip": "Ecommerce.Core\\DTOS\\PhotoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T19:18:14.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\Address.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:52:23.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T22:23:13.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "PhotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\PhotoRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\PhotoRepository.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\PhotoRepository.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\PhotoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:48:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\CategoryRepository.cs",
+              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:47:06.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "EmailStringBody.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Sharing\\EmailStringBody.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Core\\Sharing\\EmailStringBody.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Sharing\\EmailStringBody.cs",
+              "RelativeToolTip": "Ecommerce.Core\\Sharing\\EmailStringBody.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T23:36:48.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "PhotoMapping.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\PhotoMapping.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Mapping\\PhotoMapping.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\PhotoMapping.cs",
+              "RelativeToolTip": "EcommerceAPI\\Mapping\\PhotoMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:58:31.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ProductMapping.cs",
+              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\ProductMapping.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Mapping\\ProductMapping.cs",
+              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Mapping\\ProductMapping.cs",
+              "RelativeToolTip": "EcommerceAPI\\Mapping\\ProductMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:58:28.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
               "Title": "EcommerceAPI.csproj",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\EcommerceAPI.csproj",
               "RelativeDocumentMoniker": "EcommerceAPI\\EcommerceAPI.csproj",
@@ -1187,11 +1423,12 @@
               "RelativeToolTip": "EcommerceAPI\\EcommerceAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-27T20:10:58.798Z"
+              "WhenOpened": "2026-03-27T20:10:58.798Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 81,
               "Title": "ProductParameters.cs",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Sharing\\ProductParameters.cs",
               "RelativeDocumentMoniker": "Ecommerce.Core\\Sharing\\ProductParameters.cs",
@@ -1199,11 +1436,12 @@
               "RelativeToolTip": "Ecommerce.Core\\Sharing\\ProductParameters.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:19:28.575Z"
+              "WhenOpened": "2026-03-19T11:19:28.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 82,
               "Title": "GenericRepositories.cs",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\GenericRepositories.cs",
               "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\GenericRepositories.cs",
@@ -1211,83 +1449,12 @@
               "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\GenericRepositories.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T13:46:38.44Z"
+              "WhenOpened": "2026-03-19T13:46:38.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "EcommerceAPI\\Middleware\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:15:40.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "EcommerceAPI\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:00:56.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "EcommerceAPI\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T14:12:24.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "RatingsController.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\RatingsController.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\RatingsController.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\RatingsController.cs",
-              "RelativeToolTip": "EcommerceAPI\\Controllers\\RatingsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:00:55.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "PaymentsController.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\PaymentsController.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\PaymentsController.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\PaymentsController.cs",
-              "RelativeToolTip": "EcommerceAPI\\Controllers\\PaymentsController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:00:29.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "RatingRepositry.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\RatingRepositry.cs",
-              "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\RatingRepositry.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\RatingRepositry.cs",
-              "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\RatingRepositry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T13:48:17.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 83,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Intefaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Ecommerce.Core\\Intefaces\\IGenericRepository.cs",
@@ -1295,11 +1462,12 @@
               "RelativeToolTip": "Ecommerce.Core\\Intefaces\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T13:46:22.366Z"
+              "WhenOpened": "2026-03-19T13:46:22.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 84,
               "Title": "OrderToReturnDTO.cs",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\DTOS\\OrderToReturnDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce.Core\\DTOS\\OrderToReturnDTO.cs",
@@ -1307,31 +1475,8 @@
               "RelativeToolTip": "Ecommerce.Core\\DTOS\\OrderToReturnDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T13:46:03.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "IPaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IPaymentService.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Core\\Services\\IPaymentService.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\Ecommerce.Core\\Services\\IPaymentService.cs",
-              "RelativeToolTip": "Ecommerce.Core\\Services\\IPaymentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:19:33.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 81,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "EcommerceAPI\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:00:16.804Z"
+              "WhenOpened": "2026-03-19T13:46:03.077Z",
+              "EditorCaption": ""
             }
           ]
         },

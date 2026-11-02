@@ -12,7 +12,7 @@ namespace Ecommerce.Core.Intefaces
     {
         Task<string> RegisterAsync(RegisterDTO registerDTO);
         Task<string> LoginAsync(LoginDTO login);
-        Task<string> GoogleLoginAsync(GoogleLoginDTO googleLoginDTO);
+        Task<string> GoogleLoginAsync(GoogleLoginDTO requst);
         Task<bool> SendEmailForForgetPassword(string email);
         Task<string> ResetPassword(RestPasswordDTO restPassword);
         Task<bool> ActiveAccount(ActiveAccountDTO accountDTO);

@@ -73,6 +73,22 @@
   },
   {
     "ContainingType": "EcommerceAPI.Controllers.AccountController",
+    "Method": "loginWithGoogle",
+    "RelativePath": "api/Account/Login-with-Google",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "googleLoginDTO",
+        "Type": "Ecommerce.Core.DTOS.GoogleLoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EcommerceAPI.Controllers.AccountController",
     "Method": "logout",
     "RelativePath": "api/Account/Logout",
     "HttpMethod": "GET",

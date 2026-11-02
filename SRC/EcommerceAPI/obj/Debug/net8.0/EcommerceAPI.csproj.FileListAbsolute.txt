@@ -327,3 +327,9 @@ C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0
 C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\Ecommerc.C58B2BB1.Up2Date
 C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.genruntimeconfig.cache
 C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\obj\Debug\net8.0\ref\EcommerceAPI.dll
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\bin\Debug\net8.0\System.Management.dll
+C:\Users\UG\Documents\GitHub\Ecommerce-Web-API\SRC\EcommerceAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
