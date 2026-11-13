@@ -62,7 +62,7 @@ Before running the project, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+[git clone] (https://github.com/abwalfdlrmdan128/Ecommerce-Web-API)
 ```
 
 ### 2. Navigate to the Project Directory
