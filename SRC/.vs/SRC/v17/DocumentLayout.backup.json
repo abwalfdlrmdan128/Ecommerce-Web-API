@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\infrastrucutreregisteratoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\infrastrucutreregisteratoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC0BCFBE-83D7-4800-B7AA-BD7849B19F67}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerceinfrastructure\\repositries\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72FC3A99-025F-440A-B76D-F03166F298DC}|EcommerceInfraStructure\\EcommerceInfraStructure.csproj|solutionrelative:ecommerceinfrastructure\\repositries\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68058284-CD16-4ECB-A630-26499E84835E}|Ecommerce.Core\\Ecommerce.Core.csproj|c:\\users\\ug\\documents\\github\\ecommerce-web-api\\src\\ecommerce.core\\intefaces\\iautho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -354,7 +354,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 168,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -362,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\AccountController.cs",
@@ -388,13 +388,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AuthRepository.cs",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\AuthRepository.cs",
               "RelativeDocumentMoniker": "EcommerceInfraStructure\\Repositries\\AuthRepository.cs",
               "ToolTip": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\Repositries\\AuthRepository.cs",
               "RelativeToolTip": "EcommerceInfraStructure\\Repositries\\AuthRepository.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAAAM4AAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAM4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T11:20:12.866Z",
               "EditorCaption": ""
@@ -414,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceAPI\\Program.cs",
               "RelativeDocumentMoniker": "EcommerceAPI\\Program.cs",
@@ -427,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InfraStrucutreRegisteratoin.cs",
               "DocumentMoniker": "C:\\Users\\UG\\Documents\\GitHub\\Ecommerce-Web-API\\SRC\\EcommerceInfraStructure\\InfraStrucutreRegisteratoin.cs",
               "RelativeDocumentMoniker": "EcommerceInfraStructure\\InfraStrucutreRegisteratoin.cs",
